@@ -10,4 +10,4 @@ eureka:
     instance-id: http://localhost:2222
 server:
   port: 2222
-from:1
+from: 1
